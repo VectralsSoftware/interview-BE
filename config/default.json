@@ -1,0 +1,4 @@
+{
+    "mongoURI": "YOUR MONGO DB URI HERE",
+    "jwtSecret": "vectrals_jwt_secret"
+}
